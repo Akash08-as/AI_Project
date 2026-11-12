@@ -1,0 +1,2 @@
+# Only the GUI needs a third-party package. The command-line versions use the standard library.
+pygame>=2.0
