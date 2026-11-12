@@ -57,8 +57,8 @@ maps, discussion and conclusion) is available as a PDF: **[docs/PROJECT_REPORT.p
 Requires Python 3.8 or newer (developed and tested on Python 3.13).
 
 ```bash
-git clone <your-repository-url>
-cd <repository-folder>
+git clone https://github.com/Akash08-as/AI_Project.git
+cd AI_Project_Treasure_Hunt-repo
 pip install -r requirements.txt     # installs pygame
 ```
 
